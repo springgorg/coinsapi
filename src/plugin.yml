@@ -1,0 +1,7 @@
+name: CoinsAPI
+version: 1.0
+author: Spring_g
+main: fr.springg.coinsapi.Main
+commands:
+  money:
+    description: Voir son argent.
